@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767144728255",
+    "firebase_url": "https://chilwequizz-default-rtdb.firebaseio.com",
+    "project_id": "chilwequizz",
+    "storage_bucket": "chilwequizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767144728255:android:29f836ca9d7547571ed80a",
+        "android_client_info": {
+          "package_name": "com.chilwequizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaIdrnJIORwMy3qxmQYLMMl6cOaV6iDuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
